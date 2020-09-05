@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648752464227",
+    "firebase_url": "https://songlist-e156b.firebaseio.com",
+    "project_id": "songlist-e156b",
+    "storage_bucket": "songlist-e156b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648752464227:android:904c66a8931cc6bc721356",
+        "android_client_info": {
+          "package_name": "com.songlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648752464227-0o8iateeg2jj1dgi4nh33pqhnalknhoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8i4nNaUvLavvbJGV94ye57aY_Yr-L20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648752464227-0o8iateeg2jj1dgi4nh33pqhnalknhoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
